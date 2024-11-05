@@ -1,0 +1,2 @@
+# 5-11-2024_data_tensou
+esp32からesp32s3とesp32c3へ常時data転送して、esp32s3から一部dataのみ更新してesp32に戻し常時転送を続ける
