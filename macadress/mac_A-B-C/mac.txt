@@ -1,0 +1,3 @@
+A0:B7:65:58:7A:FC       A   esp32mini
+64:E8:33:50:9D:24       B   esp32s3
+84:FC:E6:84:30:58       C   esp32c3
